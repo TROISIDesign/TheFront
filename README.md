@@ -1,6 +1,7 @@
-![version](https://img.shields.io/badge/version-1.0.1-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/soft-ui-design-system.svg?maxAge=2592000)](https://github.com/creativetimofficial/soft-ui-design-system/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/soft-ui-design-system.svg?maxAge=2592000)](https://github.com/creativetimofficial/soft-ui-design-system/issues?q=is%3Aissue+is%3Aclosed)
+This is a test of Creative Tim "Soft Design System" template, free version.
 
-This is a test of Creative Tim "Soft Design System" template, free version. 
+![version](https://img.shields.io/badge/version-1.0.1-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/soft-ui-design-system.svg?maxAge=2592000)](https://github.com/creativetimofficial/soft-ui-design-system/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/soft-ui-design-system.svg?maxAge=2592000)](https://github.com/creativetimofficial/soft-ui-design-system/issues?q=is%3Aissue+is%3Aclosed)
+ 
 
 Soft UI Design System is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining. All components can take variations in colour, that you can easily modify using SASS files and classes.
 
